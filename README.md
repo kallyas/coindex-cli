@@ -39,4 +39,4 @@ Version
 1.0.0
 License
 
-MIT
+GNU General Public License v3.0
