@@ -1,5 +1,7 @@
 # Coindex CLI
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0996803e8fa24d43bb6a9ff12eab22e6)](https://app.codacy.com/manual/kallyasmedia/coindex-cli?utm_source=github.com&utm_medium=referral&utm_content=kallyas/coindex-cli&utm_campaign=Badge_Grade_Dashboard)
+
 Command line interface written in Node.js to check cryptocurrency prices
 
 Register an API key at https://nomics.com
