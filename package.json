@@ -19,7 +19,7 @@
   "homepage": "https://github.com/kallyas/Node.js-CLI-For-Cryptocurrency-Prices#readme",
   "dependencies": {
     "axios": "^0.23.0",
-    "colors": "^1.4.0",
+    "colors": "^1.4.2",
     "commander": "^8.2.0",
     "configstore": "^6.0.0",
     "inquirer": "^8.2.0"
